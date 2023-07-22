@@ -5,6 +5,11 @@ function Login({ providers }) {
     <div className="flex flex-col items-center bg-black min-h-screen w-full justify-center">
       <img
         className="mb-5 w-52"
+        src="./logo.png"
+        alt=""
+      />
+      <img
+        className="mb-5 w-52"
         src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png"
         alt=""
       />
